@@ -1,2 +1,2 @@
-# Formation-C#
-Training on C# 
+# Formation C#
+My training on C# 
